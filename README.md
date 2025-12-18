@@ -7,7 +7,7 @@ Sou tecnica em informática e  estudante de Engenharia Elétrica com um forte in
 ### O que Eu Faço
 
 - **o que estudei no tecnico**: Experiência em várias linguagens e tecnologias, incluindo python, java, HTML,CSS,JavaScript,SQL.
-- **Estudo de Engenharia Elétrica**: Em processo de formação, com foco em sistemas eletrônicos, circuitos e automação.
+- **Estudo de Engenharia Elétrica**: Em processo de formação, com foco em visão computacional e robôtica.
 - **Aprendizado de IA**: Mergulhando em projetos de IA e Machine Learning, buscando aplicar conceitos teóricos em projetos práticos.
 
 ### Projetos Recentes
@@ -17,9 +17,9 @@ Sou tecnica em informática e  estudante de Engenharia Elétrica com um forte in
 
 ### Habilidades
 
-- **Linguagens de Programação**: Python, HTML,CSS,JavaScript, SQL.
+- **Linguagens de Programação**: Python, HTML,CSS,JavaScript, SQL, Flutter.
 - **Frameworks e Bibliotecas**: tensorFlow, React
-- **Ferramentas e Tecnologias**: Git, Docker, PowerBI
+- **Ferramentas e Tecnologias**: Git, Docker, Aurora, matilab, ros2, 
 
 ### Contato
 
@@ -32,9 +32,9 @@ Atualmente, estou focado em:
 
 - **Inteligência Artificial**: Explorando técnicas de aprendizado de máquina, redes neurais e Deep learning e plataformas como a Amazon Sagemaker canvas.
 
-- **Desenvolvimento Frontend**: Criando interfaces de usuário interativas e responsivas.
+- **Desenvolvimento de software**: Criando interfaces de usuário interativas e responsivas.
 
-- **Automação e robótica**: projetos com arduino e sensores.
+- **Automação e robótica**: projetos com arduino, esp32 e sensores.
 
 ### Links Úteis
 
